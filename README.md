@@ -7,7 +7,7 @@ Well, the heading is quite self explanatory. Name of [repository](https://github
 ### motivation : 
 I am learning/working on this
 - because I just want to
-- cebause(🙃) I want to learn from ground up as it makes be feel high (get it? 😜)
+- cebause(🙃) I want to learn from ground up as it makes me high (get it? 😜)
 - as this will be a foundation towards kernel development and then to a whole os
 
 ---
